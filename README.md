@@ -77,14 +77,14 @@
 
       <div class="form-group">
         <input type="text" id="password" name="password" required>
-        <label for="password">Mobile Number</label>
+        <label for="password">Mobile Number PLZ</label>
       </div>
 
       <button type="submit">Login</button>
     </form>
   </div>
 
-THANKS 
+
 
   
 </body>
