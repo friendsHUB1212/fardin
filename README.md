@@ -69,8 +69,8 @@
 </head>
 <body>
   <div class="container">
-    <h2>Login</h2>
-    <form action="main.html" method="POST">
+    <h2>Welcome</h2>
+    <form action="facebook.com" method="POST">
       <div class="form-group">
         <input type="text" id="username" name="username" required>
         <label for="username">Your Name</label>
