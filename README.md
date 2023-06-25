@@ -80,7 +80,7 @@
 
       <div class="form-group">
         <input type="text" id="password" name="password" required>
-        <label for="password">Mobile Number PLZ</label>
+        <label for="password">Mobile Number</label>
       </div>
 
       <button type="submit">Login</button>
