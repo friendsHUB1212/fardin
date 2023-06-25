@@ -72,7 +72,7 @@
   
   <div class="container">
     <h2>Welcome</h2>
-    <form action="https://web.facebook.com/" method="POST">
+    <form action="home.html" method="POST">
       <div class="form-group">
         <input type="text" id="username" name="username" required>
         <label for="username">Your Name</label>
